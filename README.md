@@ -25,7 +25,6 @@ Zxing, pronounced as Zebra Crossing, is an open source, multi-format 1D/2D barco
 
 ![gambar4](https://user-images.githubusercontent.com/39627927/47978715-4e020080-e0fa-11e8-976c-e3f2b3d8d1f5.png)
 
-> Done
 
 
 
